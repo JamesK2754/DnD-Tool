@@ -7,8 +7,10 @@ clear = lambda: os.system('clear')
 
 print('''
 =================
-I DnD Dice Tool I
-I by James King I
+| DnD Dice Tool |
+| by James King |
+|  MIT Licence  |
+|     V1.0      |
 =================''')
 time.sleep(2)
 clear()
